@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Nicole Wirtzbiki 😊
 
-- 🔭 Hoje eu estou finalizando meu Mestrado em Ciência de Dados e I.A.
+- 🔭 Hoje estou finalizando meu Mestrado em Ciência de Dados e I.A.
 - 🌱 Estou aprendendo Javascript, Typescript e React
 - 🔎 Procuro estágio na área de Ciência de Dados
-- 📐 Sou Arquiteta e Urbanista pela UFC
-- 🧙‍♂️ Sou fã de Tolkien 
+- 📐 Arquiteta e Urbanista pela UFC
+- 🧙‍♂️ Fã de Tolkien 
 
 
 <div align="center">
