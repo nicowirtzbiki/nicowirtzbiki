@@ -5,6 +5,7 @@
 - 🔎 Procuro estágio na área de Ciência de Dados
 - 📐 Arquiteta e Urbanista pela UFC
 - 🧙‍♂️ Fã de Tolkien 
+- linkedin.com/in/nicole-wirtzbiki/
 
 
 <div align="center">
