@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Masters Student in Data Science and A.I
 - 🌱 I'm leaning Javascript, HTML+CSS, Typescript e React
-- 📐 Architect and Urnanist by UFC
+- 📐 Architect and Urbanist
 - 🧙‍♂️ Tolkien Fan
 - linkedin.com/in/nicole-wirtzbiki/
 
