@@ -1,10 +1,9 @@
-### Olá! Eu sou a Nicole Wirtzbiki 😊
+### Hello there! I'm Nicole Wirtzbiki 😊
 
-- 🔭 Hoje estou finalizando meu Mestrado em Ciência de Dados e I.A.
-- 🌱 Estou aprendendo Javascript, HTML+CSS, Typescript e React
-- 🔎 Procuro estágio na área de Ciência de Dados
-- 📐 Arquiteta e Urbanista pela UFC
-- 🧙‍♂️ Fã de Tolkien 
+- 🔭 I'm a Masters Student in Data Science and A.I
+- 🌱 I'm leaning Javascript, HTML+CSS, Typescript e React
+- 📐 Architect and Urnanist by UFC
+- 🧙‍♂️ Tolkien Fan
 - linkedin.com/in/nicole-wirtzbiki/
 
 
