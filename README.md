@@ -1,8 +1,10 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
 
-- 🔭 Masters Student in Data Science and A.I at University of Fortaleza (UNIFOR)
-- 🌱 Leaning Javascript, HTML+CSS, Typescript e React
-- 📐 Bachelor of Architecture and Urbanism by the Federal University of Ceará (UFC)
+- 🔭 Masters Degree in Data Science and A.I
+- ⚙  Work experience with Python, SQL and Tableau
+- 🌱 Exploring Javascript, HTML+CSS, Django e React
+  
+- 📐 Bachelor of Architecture and Urbanism
 - 🧙‍♂️ Tolkien Fan
 - linkedin.com/in/nicole-wirtzbiki/
 
