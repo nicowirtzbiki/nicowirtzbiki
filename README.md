@@ -3,8 +3,6 @@
 - 🔭 Masters Degree in Data Science and A.I
 - ⚙  Work experience with Python, SQL and Tableau
 - 🌱 Exploring Javascript, HTML+CSS, Django e React
-  
-- 📐 Bachelor of Architecture and Urbanism
 - 🧙‍♂️ Tolkien Fan
 - linkedin.com/in/nicole-wirtzbiki/
 
