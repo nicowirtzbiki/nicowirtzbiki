@@ -2,7 +2,7 @@
 
 - 🔭 Masters Degree in Data Science and A.I
 - ⚙  Work experience with Python, SQL and Tableau
-- 🌱 Exploring Javascript, React and Next.js
+- 🌱 Exploring Javascript, TypeScript, React and Next.js
 - 🧙‍♂️ Tolkien Fan
 - linkedin.com/in/nicole-wirtzbiki/
 
