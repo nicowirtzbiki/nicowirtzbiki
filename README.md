@@ -1,11 +1,10 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
-
-- 🔭 Masters Degree in Data Science and A.I
-- ⚙  Work experience with Python, SQL and Tableau
-- 🌱 Exploring Javascript, TypeScript, React and Next.js
-- 🧙‍♂️ Tolkien Fan
-- linkedin.com/in/nicole-wirtzbiki/
-
+● 🌱 Web Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
+● ⚙  Data Analyst (Python, SQL and Tableau)
+● 🔭 Masters Degree in Data Science and A.I
+● 🧙‍♂️ Tolkien Fan
+● linkedin.com/in/nicole-wirtzbiki/
+● Blog '21 Tech': medium.com/21-blog 
 
 <div align="center">
   <a href="https://github.com/nicowirtzbiki">
