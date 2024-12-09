@@ -3,9 +3,8 @@
 - ⚙  Data Analyst (Python, SQL and Tableau)
 - 🔭 Masters Degree in Data Science and A.I
 - 🧙‍♂️ Tolkien Fan
-- linkedin.com/in/nicole-wirtzbiki/
-- Blog '21 Tech': medium.com/21-blog 
 
+</br>
 <div align="center">
   <a href="https://github.com/nicowirtzbiki">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicowirtzbiki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
