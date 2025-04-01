@@ -22,11 +22,12 @@
  <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Nico-MUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> 
  <img align="center" alt="Nico-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
- 
+ <img align="center" alt="Nico-Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+ <img align="center" alt="Nico-Vercel" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"> 
  <img align="center" alt="Nico-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
- <img align="center" alt="Nico-Tableau" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1920px-Tableau_Logo.png"> 
- <img align="center" alt="Nico-Vercel" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"> 
- <img align="center" alt="Nico-Supabase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original-wordmark.svg">
+ <img align="center" alt="Nico-Tableau" height="30" width="135" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1920px-Tableau_Logo.png"> 
+
+  
  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1200/1*kXD01FAUy6eb4usA6DqPYQ.png">
 
 </div>
