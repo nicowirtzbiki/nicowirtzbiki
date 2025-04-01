@@ -28,7 +28,7 @@
  <img align="center" alt="Nico-Tableau" height="30" width="135" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1920px-Tableau_Logo.png"> 
 
   
- <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1200/1*kXD01FAUy6eb4usA6DqPYQ.png">
+ <!-- <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1200/1*kXD01FAUy6eb4usA6DqPYQ.png"> -->
 
 </div>
   
