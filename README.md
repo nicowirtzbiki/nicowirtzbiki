@@ -1,7 +1,7 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
-- 🌱 Software Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
-- ⚙  Data Analyst (Python, SQL, Tableau and PowerBI)
-- 🔭 Masters Degree in Data Science and A.I
+- 🚀 Software Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
+- 📊  Data Analyst (Python, SQL, Tableau and PowerBI)
+- 🎓 Masters Degree in Data Science and A.I
 - 🧙‍♂️ Tolkien Fan
 
 </br>
