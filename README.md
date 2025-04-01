@@ -1,5 +1,5 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
-- 🌱 Web Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
+- 🌱 Software Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
 - ⚙  Data Analyst (Python, SQL, Tableau and PowerBI)
 - 🔭 Masters Degree in Data Science and A.I
 - 🧙‍♂️ Tolkien Fan
@@ -31,7 +31,7 @@
  <a href = "https://medium.com/21-blog"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  <a href="mailto:wirtz.nico@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
- ![Snake animation](https://github.com/nicowirtzbiki/nicowirtzbiki/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/nicowirtzbiki/nicowirtzbiki/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
  
