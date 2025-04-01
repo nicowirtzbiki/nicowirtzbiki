@@ -21,7 +21,9 @@
  <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Nico-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+  <img align="right" alt="Nico-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1200/1*kXD01FAUy6eb4usA6DqPYQ.png">
+
 </div>
   
   ##
