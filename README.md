@@ -4,6 +4,8 @@
 - 🎓 Masters Degree in Data Science and A.I
 - 🧙‍♂️ Tolkien Fan
 
+I'm currently working on personal projects to showcase my skills here on GitHub. Just getting started — more to come!
+
 </br>
 <div align="center">
   <a href="https://github.com/nicowirtzbiki">
