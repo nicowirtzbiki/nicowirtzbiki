@@ -1,8 +1,7 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
 - 🚀 Software Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
 - 💻 Currently studying C at [42 Porto](https://www.42porto.com/)  
-- 📊  Data Analyst (Python, SQL, Tableau and PowerBI)
-- 🎓 Masters Degree in Data Science and A.I
+- 🎓 Masters Degree in Computer Science
 - 🧙‍♂️ Tolkien Fan
 
 I'm currently working on personal projects to showcase my skills here on GitHub. Just getting started — more to come!
