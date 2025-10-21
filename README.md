@@ -1,5 +1,5 @@
 ### Hello there! I'm Nicole Wirtzbiki 😊
-- 🚀 Software Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
+- 🚀 Web Developer who loves to learn and share knowledge. (Javascript, TypeScript, React and Next.js)
 - 💻 Currently studying C at [42 Porto](https://www.42porto.com/)  Software Engineering Program.
 - 🎓 Masters Degree in Computer Science
 - 🧙‍♂️ Tolkien Fan
